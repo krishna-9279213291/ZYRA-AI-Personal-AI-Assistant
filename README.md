@@ -76,7 +76,7 @@ Smart home control
 Follow these steps to run ZYRA AI on your local system.
 
 1️⃣ Clone the repository
-git clone https://github.com/krishna-9279213291/ZYRA-AI.git
+https://github.com/krishna-9279213291/ZYRA-AI-Personal-AI-Assistant
 2️⃣ Navigate to the project directory
 cd ZYRA-AI
 3️⃣ Create a virtual environment (recommended)
