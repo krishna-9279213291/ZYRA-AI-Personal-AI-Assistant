@@ -73,9 +73,26 @@ Smart home control
 
 # 📦 Installation
 
-Follow these steps to run the project locally.
+Follow these steps to run ZYRA AI on your local system.
 
-## 1 Clone the repository
-
-```bash
+1️⃣ Clone the repository
 git clone https://github.com/krishna-9279213291/ZYRA-AI.git
+2️⃣ Navigate to the project directory
+cd ZYRA-AI
+3️⃣ Create a virtual environment (recommended)
+python -m venv venv
+4️⃣ Activate the virtual environment
+
+Windows
+
+venv\Scripts\activate
+
+Linux / Mac
+
+source venv/bin/activate
+5️⃣ Install required dependencies
+pip install -r requirements.txt
+6️⃣ Run the assistant
+python main.py
+
+After running the command, the ZYRA AI GUI will start and you can interact with the assistant using voice commands or text input.
