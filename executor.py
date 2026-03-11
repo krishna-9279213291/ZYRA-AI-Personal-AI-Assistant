@@ -11,4 +11,5 @@ def run_plan(plan):
         if step:
             print("Executing:", step)
 
+
             execute_command(step)
